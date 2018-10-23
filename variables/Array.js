@@ -1,6 +1,6 @@
 const products = [
     {
-        name: "Uncharted 4",
+        name: "Budi 4",
         price: "Rp. 550.000",
         category: "Action",
         transaction: "25",
